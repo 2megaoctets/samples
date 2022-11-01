@@ -1,2 +1,2 @@
 # Dirt-Samples
-Set of samples used in Dirt 
+Set of samples used in SuperDirt 
